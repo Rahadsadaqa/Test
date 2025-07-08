@@ -93,7 +93,7 @@ namespace Test
         {
             if (y == 0)
             {
-                Console.WriteLine("⚠️ Cannot divide by zero.");
+                Console.WriteLine(" Cannot divide by zero.");
                 return currentResult;
             }
             return currentResult / y;
