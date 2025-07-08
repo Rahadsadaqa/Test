@@ -76,7 +76,7 @@ namespace Test
                         currentResult = Operations.Power(currentResult);
                         break;
                     default:
-                        Console.WriteLine("⚠️ Unknown operation.");
+                        Console.WriteLine(" Unknown operation.");
                         break;
                 }
             }
